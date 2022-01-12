@@ -86,15 +86,3 @@
   }
 }
 
-@media screen and (max-width: 600px) {
-  .Socialinks {
-    top: 10%;
-    font-size: calc(20px + 2vmin);
-  }
-
-  .socials {
-    top: 80%;
-    width: 70%;
-  }
-}
- 
